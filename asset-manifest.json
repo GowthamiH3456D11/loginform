@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loginform/static/css/main.e6c13ad2.css",
+    "main.js": "/loginform/static/js/main.8bcd878b.js",
+    "index.html": "/loginform/index.html",
+    "main.e6c13ad2.css.map": "/loginform/static/css/main.e6c13ad2.css.map",
+    "main.8bcd878b.js.map": "/loginform/static/js/main.8bcd878b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8bcd878b.js"
+  ]
+}
